@@ -1,5 +1,5 @@
 # Hello folks! 👋
-  We’re using **Discussions** as a place to connect with other members of our community. 
+  We’re using **Discussions** as the place to connect and discuss new features for Mote in the open with everyone.
 
 You are invited to...
 
@@ -7,7 +7,7 @@ You are invited to...
 2. Ask pressing questions 🤔
 3. Engage with other Mote members!
 
-[Get started by visiting Discussions](https://github.com/Mote-Apps/mote-feedback/discussions) and adding a new discussion. 
+Get started by visiting [Discussions](https://github.com/Mote-Apps/mote-feedback/discussions) and adding a new discussion. 
 
 ---
 
